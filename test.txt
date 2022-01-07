@@ -1,1 +1,3 @@
-A file with some text
+A file with some text. 
+
+This is some more text.
